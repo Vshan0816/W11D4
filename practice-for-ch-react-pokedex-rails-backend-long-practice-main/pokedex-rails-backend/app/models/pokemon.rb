@@ -14,7 +14,6 @@
 #  updated_at :datetime         not null
 #
 class Pokemon < ApplicationRecord
-    class Pokemon < ApplicationRecord
         TYPES = [
           'fire',
           'electric',
